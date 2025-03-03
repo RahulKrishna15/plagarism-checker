@@ -16,7 +16,7 @@ This repo consist of a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine just as shown below;
 
 ```bash
-git clone 
+git clone https://github.com/RahulKrishna15/plagarism-checker.git
 ```
 
 ## Dependencies 
